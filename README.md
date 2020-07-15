@@ -1,2 +1,2 @@
-# Portfolio-Optimiser
-Portfolio optimisation project using web scraper on yahoo finance
+# Portfolio-Optimizer
+Portfolio optimization project using web scraper on yahoo finance
